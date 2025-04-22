@@ -2,3 +2,16 @@
     width: 20px;
     height: 50px;
 }
+
+body {
+    background-color: #f6f4f0;
+  }
+
+
+*{
+    margin: 0; padding:0;
+    box-sizing: border-box;
+    font-family: Verdana, Tahoma, sans-serif;
+    outline: none; border:none;
+    text-transform: capitalize;
+}
