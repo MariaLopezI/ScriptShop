@@ -1,12 +1,11 @@
-.ScriptShopLogo{
-    width: 20px;
-    height: 50px;
-}
-
 body {
     background-color: #f6f4f0;
   }
 
+  .logo {
+    width: 300px; 
+    height: auto;  
+  }
 
 *{
     margin: 0; padding:0;
